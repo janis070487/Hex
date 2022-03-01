@@ -1,0 +1,13 @@
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\bin\Debug\Hex.exe.config
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\bin\Debug\Hex.exe
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\bin\Debug\Hex.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\bin\Debug\MaterialSkin.dll
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.csproj.AssemblyReference.cache
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.csproj.SuggestedBindingRedirects.cache
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.Properties.Resources.resources
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.csproj.GenerateResource.cache
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.csproj.CoreCompileInputs.cache
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.csproj.CopyComplete
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.exe
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\Hex\obj\Debug\Hex.Form1.resources
