@@ -40,6 +40,10 @@ namespace Hex
         private string[] firstData = null;   //glabajas tikai dati kas ir bez nevienas papildinformacijas
         private string[] formatdata = null;  //glabajas beigu dati
         //_____________________________________________________________________________________
+        public void SetPath(string path)
+        {
+            this.path = path;
+        }
         public file(string path)     // konstruktors ja lasa no faila
         {
             this.path = path;
