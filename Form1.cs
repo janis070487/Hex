@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
+// Darbojas divas lapas
 //C:\Users\janis\OneDrive\Dators\Projekti\starpkratuve\app.exe
 namespace Hex
 {
