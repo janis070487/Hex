@@ -17,12 +17,12 @@ namespace Hex
         public bool ShowAdres = false; //Parādīt rindu adreses
         public bool ShowValue = false; //parada rindu vertibu parveršot vesalajos sakitlos
         public bool ShowAscii = false; //parada rindu vertibu parversot Asci simbolos
-        public int WordSize = 1;       // No cik baitiem sastāvēs vards iespējamais 1 2 4
+        public int WordSize = 4;       // No cik baitiem sastāvēs vards iespējamais 1 2 4
         public int Minbyte = 0;      // no kuras baita sak lasit 
         public int Maxbyte = 64;   // lidz kuram baitam lasit
         private int minAdress = 0;
         private int maxAdress = 0;
-        public int ColonWord = 1;
+        public int ColonWord = 4;
         private int line = 0;
         //_________________________________________________________________________________
         private byte[] data = null;
@@ -183,12 +183,20 @@ namespace Hex
             firstData = null;
             asciiAray = null;
             value = null;
+            // data = null;
             //___________________inicilizacija__________________________
 
             // formatdata = new string[line];
-            line = Maxbyte - Minbyte; // apreikina cik bus linijas
-            line = line / (WordSize * ColonWord);
-
+            // data = f.Load();
+            if (AllByte != true)
+            {
+                line = Maxbyte - Minbyte; // apreikina cik bus linijas
+                line = line / (WordSize * ColonWord);
+            }
+            else
+            {
+                line = data.Length / (WordSize * ColonWord);
+            }
             if ((Maxbyte - Minbyte) % (ColonWord * WordSize) != 0) // ja dalot ir atlikums tad pievieno vel vienu liniju
             {
                 line++;

@@ -44,10 +44,6 @@
             this.failPath = new MaterialSkin.Controls.MaterialTextBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-
-            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.minbyte = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_minbyte = new MaterialSkin.Controls.MaterialLabel();
             this.maxbyte = new MaterialSkin.Controls.MaterialTextBox();
@@ -55,13 +51,12 @@
             this.howbyte = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_howbyte = new MaterialSkin.Controls.MaterialLabel();
             this.AllBytes = new MaterialSkin.Controls.MaterialCheckbox();
-            this.WordSize = new MaterialSkin.Controls.MaterialComboBox();
-            this.WordInLine = new MaterialSkin.Controls.MaterialComboBox();
-            this.ShowLinenumbers = new MaterialSkin.Controls.MaterialCheckbox();
-            this.ShowLineAdres = new MaterialSkin.Controls.MaterialCheckbox();
             this.ShowAsciiSymbols = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLineAdres = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLinenumbers = new MaterialSkin.Controls.MaterialCheckbox();
+            this.WordInLine = new MaterialSkin.Controls.MaterialComboBox();
+            this.WordSize = new MaterialSkin.Controls.MaterialComboBox();
             this.FinishDataPage = new MaterialSkin.Controls.MaterialMultiLineTextBox();
-
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.minbyte2 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_minbyte2 = new MaterialSkin.Controls.MaterialLabel();
@@ -70,13 +65,12 @@
             this.howbyte2 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_howbyte2 = new MaterialSkin.Controls.MaterialLabel();
             this.AllBytes2 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.WordSize2 = new MaterialSkin.Controls.MaterialComboBox();
-            this.WordInLine2 = new MaterialSkin.Controls.MaterialComboBox();
-            this.ShowLinenumbers2 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.ShowLineAdres2 = new MaterialSkin.Controls.MaterialCheckbox();
             this.ShowAsciiSymbols2 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLineAdres2 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLinenumbers2 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.WordInLine2 = new MaterialSkin.Controls.MaterialComboBox();
+            this.WordSize2 = new MaterialSkin.Controls.MaterialComboBox();
             this.FinishDataPage2 = new MaterialSkin.Controls.MaterialMultiLineTextBox();
-
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.minbyte3 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_minbyte3 = new MaterialSkin.Controls.MaterialLabel();
@@ -85,13 +79,12 @@
             this.howbyte3 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_howbyte3 = new MaterialSkin.Controls.MaterialLabel();
             this.AllBytes3 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.WordSize3 = new MaterialSkin.Controls.MaterialComboBox();
-            this.WordInLine3 = new MaterialSkin.Controls.MaterialComboBox();
-            this.ShowLinenumbers3 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.ShowLineAdres3 = new MaterialSkin.Controls.MaterialCheckbox();
             this.ShowAsciiSymbols3 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLineAdres3 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLinenumbers3 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.WordInLine3 = new MaterialSkin.Controls.MaterialComboBox();
+            this.WordSize3 = new MaterialSkin.Controls.MaterialComboBox();
             this.FinishDataPage3 = new MaterialSkin.Controls.MaterialMultiLineTextBox();
-
             this.tabPage7 = new System.Windows.Forms.TabPage();
             this.minbyte4 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_minbyte4 = new MaterialSkin.Controls.MaterialLabel();
@@ -100,14 +93,12 @@
             this.howbyte4 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_howbyte4 = new MaterialSkin.Controls.MaterialLabel();
             this.AllBytes4 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.WordSize4 = new MaterialSkin.Controls.MaterialComboBox();
-            this.WordInLine4 = new MaterialSkin.Controls.MaterialComboBox();
-            this.ShowLinenumbers4 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.ShowLineAdres4 = new MaterialSkin.Controls.MaterialCheckbox();
             this.ShowAsciiSymbols4 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLineAdres4 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLinenumbers4 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.WordInLine4 = new MaterialSkin.Controls.MaterialComboBox();
+            this.WordSize4 = new MaterialSkin.Controls.MaterialComboBox();
             this.FinishDataPage4 = new MaterialSkin.Controls.MaterialMultiLineTextBox();
-
-
             this.tabPage8 = new System.Windows.Forms.TabPage();
             this.minbyte5 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_minbyte5 = new MaterialSkin.Controls.MaterialLabel();
@@ -116,17 +107,20 @@
             this.howbyte5 = new MaterialSkin.Controls.MaterialTextBox();
             this.txt_howbyte5 = new MaterialSkin.Controls.MaterialLabel();
             this.AllBytes5 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.WordSize5 = new MaterialSkin.Controls.MaterialComboBox();
-            this.WordInLine5 = new MaterialSkin.Controls.MaterialComboBox();
-            this.ShowLinenumbers5 = new MaterialSkin.Controls.MaterialCheckbox();
-            this.ShowLineAdres5 = new MaterialSkin.Controls.MaterialCheckbox();
             this.ShowAsciiSymbols5 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLineAdres5 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.ShowLinenumbers5 = new MaterialSkin.Controls.MaterialCheckbox();
+            this.WordInLine5 = new MaterialSkin.Controls.MaterialComboBox();
+            this.WordSize5 = new MaterialSkin.Controls.MaterialComboBox();
             this.FinishDataPage5 = new MaterialSkin.Controls.MaterialMultiLineTextBox();
-
-            // this.FinishDataPage5 = new MaterialSkin.Controls.MaterialMultiLineTextBox();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.materialTabControl1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
             this.tabPage4.SuspendLayout();
+            this.tabPage5.SuspendLayout();
+            this.tabPage6.SuspendLayout();
+            this.tabPage7.SuspendLayout();
+            this.tabPage8.SuspendLayout();
             this.SuspendLayout();
             // 
             // materialTabControl1
@@ -185,7 +179,7 @@
             // 
             this.OpenPage5.AutoSize = true;
             this.OpenPage5.Depth = 0;
-            this.OpenPage5.Location = new System.Drawing.Point(787, 237);
+            this.OpenPage5.Location = new System.Drawing.Point(790, 240);
             this.OpenPage5.Margin = new System.Windows.Forms.Padding(0);
             this.OpenPage5.MouseLocation = new System.Drawing.Point(-1, -1);
             this.OpenPage5.MouseState = MaterialSkin.MouseState.HOVER;
@@ -200,7 +194,7 @@
             // 
             this.OpenPage4.AutoSize = true;
             this.OpenPage4.Depth = 0;
-            this.OpenPage4.Location = new System.Drawing.Point(787, 186);
+            this.OpenPage4.Location = new System.Drawing.Point(790, 189);
             this.OpenPage4.Margin = new System.Windows.Forms.Padding(0);
             this.OpenPage4.MouseLocation = new System.Drawing.Point(-1, -1);
             this.OpenPage4.MouseState = MaterialSkin.MouseState.HOVER;
@@ -215,7 +209,7 @@
             // 
             this.OpenPage3.AutoSize = true;
             this.OpenPage3.Depth = 0;
-            this.OpenPage3.Location = new System.Drawing.Point(787, 134);
+            this.OpenPage3.Location = new System.Drawing.Point(790, 137);
             this.OpenPage3.Margin = new System.Windows.Forms.Padding(0);
             this.OpenPage3.MouseLocation = new System.Drawing.Point(-1, -1);
             this.OpenPage3.MouseState = MaterialSkin.MouseState.HOVER;
@@ -230,7 +224,7 @@
             // 
             this.OpenPage2.AutoSize = true;
             this.OpenPage2.Depth = 0;
-            this.OpenPage2.Location = new System.Drawing.Point(787, 83);
+            this.OpenPage2.Location = new System.Drawing.Point(790, 86);
             this.OpenPage2.Margin = new System.Windows.Forms.Padding(0);
             this.OpenPage2.MouseLocation = new System.Drawing.Point(-1, -1);
             this.OpenPage2.MouseState = MaterialSkin.MouseState.HOVER;
@@ -247,7 +241,7 @@
             this.OpenPage1.Checked = true;
             this.OpenPage1.CheckState = System.Windows.Forms.CheckState.Checked;
             this.OpenPage1.Depth = 0;
-            this.OpenPage1.Location = new System.Drawing.Point(787, 29);
+            this.OpenPage1.Location = new System.Drawing.Point(790, 32);
             this.OpenPage1.Margin = new System.Windows.Forms.Padding(0);
             this.OpenPage1.MouseLocation = new System.Drawing.Point(-1, -1);
             this.OpenPage1.MouseState = MaterialSkin.MouseState.HOVER;
@@ -263,7 +257,7 @@
             this.failstatus.AutoSize = true;
             this.failstatus.Depth = 0;
             this.failstatus.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.failstatus.Location = new System.Drawing.Point(466, 33);
+            this.failstatus.Location = new System.Drawing.Point(469, 36);
             this.failstatus.MouseState = MaterialSkin.MouseState.HOVER;
             this.failstatus.Name = "failstatus";
             this.failstatus.Size = new System.Drawing.Size(117, 19);
@@ -277,7 +271,7 @@
             this.FailRead.DrawShadows = true;
             this.FailRead.HighEmphasis = true;
             this.FailRead.Icon = null;
-            this.FailRead.Location = new System.Drawing.Point(84, 169);
+            this.FailRead.Location = new System.Drawing.Point(87, 172);
             this.FailRead.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.FailRead.MaximumSize = new System.Drawing.Size(100, 40);
             this.FailRead.MinimumSize = new System.Drawing.Size(100, 40);
@@ -289,14 +283,14 @@
             this.FailRead.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.FailRead.UseAccentColor = false;
             this.FailRead.UseVisualStyleBackColor = true;
-           
+            this.FailRead.Click += new System.EventHandler(this.FailRead_Click);
             // 
             // Failtext
             // 
             this.Failtext.AutoSize = true;
             this.Failtext.Depth = 0;
             this.Failtext.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.Failtext.Location = new System.Drawing.Point(79, 33);
+            this.Failtext.Location = new System.Drawing.Point(82, 36);
             this.Failtext.MouseState = MaterialSkin.MouseState.HOVER;
             this.Failtext.Name = "Failtext";
             this.Failtext.Size = new System.Drawing.Size(152, 19);
@@ -315,20 +309,11 @@
             this.failPath.MouseState = MaterialSkin.MouseState.OUT;
             this.failPath.Multiline = false;
             this.failPath.Name = "failPath";
+            this.failPath.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.failPath.Size = new System.Drawing.Size(650, 50);
-            this.failPath.TabIndex = 0;
+            this.failPath.TabIndex = 25;
             this.failPath.Text = "C:\\Users\\janis\\OneDrive\\Dators\\Projekti\\starpkratuve\\app.exe";
-           
-            // 
-            // tabPage3
-            // 
-            this.tabPage3.ImageKey = "icons8-search-48.png";
-            this.tabPage3.Location = new System.Drawing.Point(4, 39);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(1192, 657);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Serag";
-            this.tabPage3.UseVisualStyleBackColor = true;
+            this.failPath.WordWrap = false;
             // 
             // tabPage3
             // 
@@ -342,7 +327,6 @@
             // 
             // tabPage4
             // 
-            
             this.tabPage4.Controls.Add(this.minbyte);
             this.tabPage4.Controls.Add(this.txt_minbyte);
             this.tabPage4.Controls.Add(this.maxbyte);
@@ -391,13 +375,12 @@
             this.txt_minbyte.Size = new System.Drawing.Size(70, 19);
             this.txt_minbyte.TabIndex = 26;
             this.txt_minbyte.Text = "Start Byte";
-
             // 
             // maxbyte
             // 
             this.maxbyte.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.maxbyte.Depth = 0;
-            this.maxbyte.Font = new System.Drawing.Font("Roboto", 12F);
+            this.maxbyte.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.maxbyte.Location = new System.Drawing.Point(310, 24);
             this.maxbyte.MaxLength = 50;
             this.maxbyte.MouseState = MaterialSkin.MouseState.OUT;
@@ -415,7 +398,7 @@
             this.txt_maxbyte.Location = new System.Drawing.Point(497, 38);
             this.txt_maxbyte.MouseState = MaterialSkin.MouseState.HOVER;
             this.txt_maxbyte.Name = "txt_maxbyte";
-            this.txt_maxbyte.Size = new System.Drawing.Size(210, 38);
+            this.txt_maxbyte.Size = new System.Drawing.Size(69, 19);
             this.txt_maxbyte.TabIndex = 26;
             this.txt_maxbyte.Text = "Stop Byte";
             // 
@@ -423,7 +406,7 @@
             // 
             this.howbyte.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.howbyte.Depth = 0;
-            this.howbyte.Font = new System.Drawing.Font("Roboto", 12F);
+            this.howbyte.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.howbyte.Location = new System.Drawing.Point(580, 24);
             this.howbyte.MaxLength = 50;
             this.howbyte.MouseState = MaterialSkin.MouseState.OUT;
@@ -440,8 +423,8 @@
             this.txt_howbyte.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_howbyte.Location = new System.Drawing.Point(750, 38);
             this.txt_howbyte.MouseState = MaterialSkin.MouseState.HOVER;
-            this.txt_howbyte.Name = "txt_maxbyte";
-            this.txt_howbyte.Size = new System.Drawing.Size(117, 19);
+            this.txt_howbyte.Name = "txt_howbyte";
+            this.txt_howbyte.Size = new System.Drawing.Size(68, 19);
             this.txt_howbyte.TabIndex = 26;
             this.txt_howbyte.Text = "How Byte";
             // 
@@ -460,30 +443,52 @@
             this.AllBytes.Text = "Read all bytes";
             this.AllBytes.UseVisualStyleBackColor = true;
             // 
-            // WordSize
+            // ShowAsciiSymbols
             // 
-            this.WordSize.AutoResize = false;
-            this.WordSize.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.WordSize.Depth = 0;
-            this.WordSize.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
-            this.WordSize.DropDownHeight = 174;
-            this.WordSize.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.WordSize.DropDownWidth = 121;
-            this.WordSize.Font = new System.Drawing.Font("Roboto Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-            this.WordSize.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.WordSize.FormattingEnabled = true;
-            this.WordSize.IntegralHeight = false;
-            this.WordSize.ItemHeight = 43;
-            this.WordSize.Items.AddRange(new object[] {
-            "word size 1 bytes",
-            "word size 2 bytes",
-            "word size 4 bytes"});
-            this.WordSize.Location = new System.Drawing.Point(923, 80);
-            this.WordSize.MaxDropDownItems = 4;
-            this.WordSize.MouseState = MaterialSkin.MouseState.OUT;
-            this.WordSize.Name = "WordSize";
-            this.WordSize.Size = new System.Drawing.Size(175, 49);
-            this.WordSize.TabIndex = 31;
+            this.ShowAsciiSymbols.AutoSize = true;
+            this.ShowAsciiSymbols.Depth = 0;
+            this.ShowAsciiSymbols.Location = new System.Drawing.Point(923, 302);
+            this.ShowAsciiSymbols.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowAsciiSymbols.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowAsciiSymbols.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowAsciiSymbols.Name = "ShowAsciiSymbols";
+            this.ShowAsciiSymbols.Ripple = true;
+            this.ShowAsciiSymbols.Size = new System.Drawing.Size(171, 37);
+            this.ShowAsciiSymbols.TabIndex = 35;
+            this.ShowAsciiSymbols.Text = "show ASCII symbol";
+            this.ShowAsciiSymbols.UseVisualStyleBackColor = true;
+            // 
+            // ShowLineAdres
+            // 
+            this.ShowLineAdres.AutoSize = true;
+            this.ShowLineAdres.Depth = 0;
+            this.ShowLineAdres.Location = new System.Drawing.Point(923, 253);
+            this.ShowLineAdres.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLineAdres.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLineAdres.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLineAdres.Name = "ShowLineAdres";
+            this.ShowLineAdres.Ripple = true;
+            this.ShowLineAdres.Size = new System.Drawing.Size(178, 37);
+            this.ShowLineAdres.TabIndex = 34;
+            this.ShowLineAdres.Text = "show line addresses";
+            this.ShowLineAdres.UseVisualStyleBackColor = true;
+            // 
+            // ShowLinenumbers
+            // 
+            this.ShowLinenumbers.AutoSize = true;
+            this.ShowLinenumbers.Checked = true;
+            this.ShowLinenumbers.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ShowLinenumbers.Depth = 0;
+            this.ShowLinenumbers.Location = new System.Drawing.Point(923, 201);
+            this.ShowLinenumbers.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLinenumbers.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLinenumbers.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLinenumbers.Name = "ShowLinenumbers";
+            this.ShowLinenumbers.Ripple = true;
+            this.ShowLinenumbers.Size = new System.Drawing.Size(182, 37);
+            this.ShowLinenumbers.TabIndex = 33;
+            this.ShowLinenumbers.Text = "show line numbering";
+            this.ShowLinenumbers.UseVisualStyleBackColor = true;
             // 
             // WordInLine
             // 
@@ -509,58 +514,33 @@
             this.WordInLine.Name = "WordInLine";
             this.WordInLine.Size = new System.Drawing.Size(175, 49);
             this.WordInLine.TabIndex = 32;
-           
             // 
-            // ShowLinenumbers
+            // WordSize
             // 
-            this.ShowLinenumbers.AutoSize = true;
-            this.ShowLinenumbers.Checked = true;
-            this.ShowLinenumbers.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ShowLinenumbers.Depth = 0;
-            this.ShowLinenumbers.Location = new System.Drawing.Point(923, 201);
-            this.ShowLinenumbers.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLinenumbers.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLinenumbers.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLinenumbers.Name = "ShowLinenumbers";
-            this.ShowLinenumbers.Ripple = true;
-            this.ShowLinenumbers.Size = new System.Drawing.Size(182, 37);
-            this.ShowLinenumbers.TabIndex = 33;
-            this.ShowLinenumbers.Text = "show line numbering";
-            this.ShowLinenumbers.UseVisualStyleBackColor = true;
-           
+            this.WordSize.AutoResize = false;
+            this.WordSize.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.WordSize.Depth = 0;
+            this.WordSize.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.WordSize.DropDownHeight = 174;
+            this.WordSize.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.WordSize.DropDownWidth = 121;
+            this.WordSize.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            this.WordSize.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.WordSize.FormattingEnabled = true;
+            this.WordSize.IntegralHeight = false;
+            this.WordSize.ItemHeight = 43;
+            this.WordSize.Items.AddRange(new object[] {
+            "word size 1 bytes",
+            "word size 2 bytes",
+            "word size 4 bytes"});
+            this.WordSize.Location = new System.Drawing.Point(923, 80);
+            this.WordSize.MaxDropDownItems = 4;
+            this.WordSize.MouseState = MaterialSkin.MouseState.OUT;
+            this.WordSize.Name = "WordSize";
+            this.WordSize.Size = new System.Drawing.Size(175, 49);
+            this.WordSize.TabIndex = 31;
             // 
-            // ShowLineAdres
-            // 
-            this.ShowLineAdres.AutoSize = true;
-            this.ShowLineAdres.Depth = 0;
-            this.ShowLineAdres.Location = new System.Drawing.Point(923, 253);
-            this.ShowLineAdres.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLineAdres.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLineAdres.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLineAdres.Name = "ShowLineAdres";
-            this.ShowLineAdres.Ripple = true;
-            this.ShowLineAdres.Size = new System.Drawing.Size(178, 37);
-            this.ShowLineAdres.TabIndex = 34;
-            this.ShowLineAdres.Text = "show line addresses";
-            this.ShowLineAdres.UseVisualStyleBackColor = true;
-           
-            // 
-            // ShowAsciiSymbols
-            // 
-            this.ShowAsciiSymbols.AutoSize = true;
-            this.ShowAsciiSymbols.Depth = 0;
-            this.ShowAsciiSymbols.Location = new System.Drawing.Point(923, 302);
-            this.ShowAsciiSymbols.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowAsciiSymbols.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowAsciiSymbols.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowAsciiSymbols.Name = "ShowAsciiSymbols";
-            this.ShowAsciiSymbols.Ripple = true;
-            this.ShowAsciiSymbols.Size = new System.Drawing.Size(171, 37);
-            this.ShowAsciiSymbols.TabIndex = 35;
-            this.ShowAsciiSymbols.Text = "show ASCII symbol";
-            this.ShowAsciiSymbols.UseVisualStyleBackColor = true;
-            // 
-            // FinishDataPage1
+            // FinishDataPage
             // 
             this.FinishDataPage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.FinishDataPage.BorderStyle = System.Windows.Forms.BorderStyle.None;
@@ -578,7 +558,7 @@
             this.FinishDataPage.Size = new System.Drawing.Size(900, 550);
             this.FinishDataPage.TabIndex = 17;
             this.FinishDataPage.Text = "";
-            //
+            // 
             // tabPage5
             // 
             this.tabPage5.Controls.Add(this.minbyte2);
@@ -601,7 +581,6 @@
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Page 2";
             this.tabPage5.UseVisualStyleBackColor = true;
-
             // 
             // minbyte2
             // 
@@ -630,13 +609,12 @@
             this.txt_minbyte2.Size = new System.Drawing.Size(70, 19);
             this.txt_minbyte2.TabIndex = 26;
             this.txt_minbyte2.Text = "Start Byte";
-
             // 
             // maxbyte2
             // 
             this.maxbyte2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.maxbyte2.Depth = 0;
-            this.maxbyte2.Font = new System.Drawing.Font("Roboto", 12F);
+            this.maxbyte2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.maxbyte2.Location = new System.Drawing.Point(310, 24);
             this.maxbyte2.MaxLength = 50;
             this.maxbyte2.MouseState = MaterialSkin.MouseState.OUT;
@@ -654,7 +632,7 @@
             this.txt_maxbyte2.Location = new System.Drawing.Point(497, 38);
             this.txt_maxbyte2.MouseState = MaterialSkin.MouseState.HOVER;
             this.txt_maxbyte2.Name = "txt_maxbyte2";
-            this.txt_maxbyte2.Size = new System.Drawing.Size(210, 38);
+            this.txt_maxbyte2.Size = new System.Drawing.Size(69, 19);
             this.txt_maxbyte2.TabIndex = 26;
             this.txt_maxbyte2.Text = "Stop Byte";
             // 
@@ -662,7 +640,7 @@
             // 
             this.howbyte2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.howbyte2.Depth = 0;
-            this.howbyte2.Font = new System.Drawing.Font("Roboto", 12F);
+            this.howbyte2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.howbyte2.Location = new System.Drawing.Point(580, 24);
             this.howbyte2.MaxLength = 50;
             this.howbyte2.MouseState = MaterialSkin.MouseState.OUT;
@@ -679,8 +657,8 @@
             this.txt_howbyte2.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_howbyte2.Location = new System.Drawing.Point(750, 38);
             this.txt_howbyte2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.txt_howbyte2.Name = "txt_maxbyte2";
-            this.txt_howbyte2.Size = new System.Drawing.Size(117, 19);
+            this.txt_howbyte2.Name = "txt_howbyte2";
+            this.txt_howbyte2.Size = new System.Drawing.Size(68, 19);
             this.txt_howbyte2.TabIndex = 26;
             this.txt_howbyte2.Text = "How Byte";
             // 
@@ -699,30 +677,52 @@
             this.AllBytes2.Text = "Read all bytes";
             this.AllBytes2.UseVisualStyleBackColor = true;
             // 
-            // WordSize2
+            // ShowAsciiSymbols2
             // 
-            this.WordSize2.AutoResize = false;
-            this.WordSize2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.WordSize2.Depth = 0;
-            this.WordSize2.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
-            this.WordSize2.DropDownHeight = 174;
-            this.WordSize2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.WordSize2.DropDownWidth = 121;
-            this.WordSize2.Font = new System.Drawing.Font("Roboto Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-            this.WordSize2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.WordSize2.FormattingEnabled = true;
-            this.WordSize2.IntegralHeight = false;
-            this.WordSize2.ItemHeight = 43;
-            this.WordSize2.Items.AddRange(new object[] {
-            "word size 1 bytes",
-            "word size 2 bytes",
-            "word size 4 bytes"});
-            this.WordSize2.Location = new System.Drawing.Point(923, 80);
-            this.WordSize2.MaxDropDownItems = 4;
-            this.WordSize2.MouseState = MaterialSkin.MouseState.OUT;
-            this.WordSize2.Name = "WordSize2";
-            this.WordSize2.Size = new System.Drawing.Size(175, 49);
-            this.WordSize2.TabIndex = 31;
+            this.ShowAsciiSymbols2.AutoSize = true;
+            this.ShowAsciiSymbols2.Depth = 0;
+            this.ShowAsciiSymbols2.Location = new System.Drawing.Point(923, 302);
+            this.ShowAsciiSymbols2.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowAsciiSymbols2.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowAsciiSymbols2.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowAsciiSymbols2.Name = "ShowAsciiSymbols2";
+            this.ShowAsciiSymbols2.Ripple = true;
+            this.ShowAsciiSymbols2.Size = new System.Drawing.Size(171, 37);
+            this.ShowAsciiSymbols2.TabIndex = 35;
+            this.ShowAsciiSymbols2.Text = "show ASCII symbol";
+            this.ShowAsciiSymbols2.UseVisualStyleBackColor = true;
+            // 
+            // ShowLineAdres2
+            // 
+            this.ShowLineAdres2.AutoSize = true;
+            this.ShowLineAdres2.Depth = 0;
+            this.ShowLineAdres2.Location = new System.Drawing.Point(923, 253);
+            this.ShowLineAdres2.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLineAdres2.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLineAdres2.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLineAdres2.Name = "ShowLineAdres2";
+            this.ShowLineAdres2.Ripple = true;
+            this.ShowLineAdres2.Size = new System.Drawing.Size(178, 37);
+            this.ShowLineAdres2.TabIndex = 34;
+            this.ShowLineAdres2.Text = "show line addresses";
+            this.ShowLineAdres2.UseVisualStyleBackColor = true;
+            // 
+            // ShowLinenumbers2
+            // 
+            this.ShowLinenumbers2.AutoSize = true;
+            this.ShowLinenumbers2.Checked = true;
+            this.ShowLinenumbers2.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ShowLinenumbers2.Depth = 0;
+            this.ShowLinenumbers2.Location = new System.Drawing.Point(923, 201);
+            this.ShowLinenumbers2.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLinenumbers2.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLinenumbers2.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLinenumbers2.Name = "ShowLinenumbers2";
+            this.ShowLinenumbers2.Ripple = true;
+            this.ShowLinenumbers2.Size = new System.Drawing.Size(182, 37);
+            this.ShowLinenumbers2.TabIndex = 33;
+            this.ShowLinenumbers2.Text = "show line numbering";
+            this.ShowLinenumbers2.UseVisualStyleBackColor = true;
             // 
             // WordInLine2
             // 
@@ -748,56 +748,31 @@
             this.WordInLine2.Name = "WordInLine2";
             this.WordInLine2.Size = new System.Drawing.Size(175, 49);
             this.WordInLine2.TabIndex = 32;
-
             // 
-            // ShowLinenumbers2
+            // WordSize2
             // 
-            this.ShowLinenumbers2.AutoSize = true;
-            this.ShowLinenumbers2.Checked = true;
-            this.ShowLinenumbers2.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ShowLinenumbers2.Depth = 0;
-            this.ShowLinenumbers2.Location = new System.Drawing.Point(923, 201);
-            this.ShowLinenumbers2.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLinenumbers2.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLinenumbers2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLinenumbers2.Name = "ShowLinenumbers2";
-            this.ShowLinenumbers2.Ripple = true;
-            this.ShowLinenumbers2.Size = new System.Drawing.Size(182, 37);
-            this.ShowLinenumbers2.TabIndex = 33;
-            this.ShowLinenumbers2.Text = "show line numbering";
-            this.ShowLinenumbers2.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowLineAdres2
-            // 
-            this.ShowLineAdres2.AutoSize = true;
-            this.ShowLineAdres2.Depth = 0;
-            this.ShowLineAdres2.Location = new System.Drawing.Point(923, 253);
-            this.ShowLineAdres2.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLineAdres2.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLineAdres2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLineAdres2.Name = "ShowLineAdres2";
-            this.ShowLineAdres2.Ripple = true;
-            this.ShowLineAdres2.Size = new System.Drawing.Size(178, 37);
-            this.ShowLineAdres2.TabIndex = 34;
-            this.ShowLineAdres2.Text = "show line addresses";
-            this.ShowLineAdres2.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowAsciiSymbols2
-            // 
-            this.ShowAsciiSymbols2.AutoSize = true;
-            this.ShowAsciiSymbols2.Depth = 0;
-            this.ShowAsciiSymbols2.Location = new System.Drawing.Point(923, 302);
-            this.ShowAsciiSymbols2.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowAsciiSymbols2.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowAsciiSymbols2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowAsciiSymbols2.Name = "ShowAsciiSymbols2";
-            this.ShowAsciiSymbols2.Ripple = true;
-            this.ShowAsciiSymbols2.Size = new System.Drawing.Size(171, 37);
-            this.ShowAsciiSymbols2.TabIndex = 35;
-            this.ShowAsciiSymbols2.Text = "show ASCII symbol";
-            this.ShowAsciiSymbols2.UseVisualStyleBackColor = true;
+            this.WordSize2.AutoResize = false;
+            this.WordSize2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.WordSize2.Depth = 0;
+            this.WordSize2.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.WordSize2.DropDownHeight = 174;
+            this.WordSize2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.WordSize2.DropDownWidth = 121;
+            this.WordSize2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            this.WordSize2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.WordSize2.FormattingEnabled = true;
+            this.WordSize2.IntegralHeight = false;
+            this.WordSize2.ItemHeight = 43;
+            this.WordSize2.Items.AddRange(new object[] {
+            "word size 1 bytes",
+            "word size 2 bytes",
+            "word size 4 bytes"});
+            this.WordSize2.Location = new System.Drawing.Point(923, 80);
+            this.WordSize2.MaxDropDownItems = 4;
+            this.WordSize2.MouseState = MaterialSkin.MouseState.OUT;
+            this.WordSize2.Name = "WordSize2";
+            this.WordSize2.Size = new System.Drawing.Size(175, 49);
+            this.WordSize2.TabIndex = 31;
             // 
             // FinishDataPage2
             // 
@@ -819,7 +794,7 @@
             this.FinishDataPage2.Text = "";
             // 
             // tabPage6
-            //
+            // 
             this.tabPage6.Controls.Add(this.minbyte3);
             this.tabPage6.Controls.Add(this.txt_minbyte3);
             this.tabPage6.Controls.Add(this.maxbyte3);
@@ -868,13 +843,12 @@
             this.txt_minbyte3.Size = new System.Drawing.Size(70, 19);
             this.txt_minbyte3.TabIndex = 26;
             this.txt_minbyte3.Text = "Start Byte";
-
             // 
             // maxbyte3
             // 
             this.maxbyte3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.maxbyte3.Depth = 0;
-            this.maxbyte3.Font = new System.Drawing.Font("Roboto", 12F);
+            this.maxbyte3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.maxbyte3.Location = new System.Drawing.Point(310, 24);
             this.maxbyte3.MaxLength = 50;
             this.maxbyte3.MouseState = MaterialSkin.MouseState.OUT;
@@ -892,7 +866,7 @@
             this.txt_maxbyte3.Location = new System.Drawing.Point(497, 38);
             this.txt_maxbyte3.MouseState = MaterialSkin.MouseState.HOVER;
             this.txt_maxbyte3.Name = "txt_maxbyte3";
-            this.txt_maxbyte3.Size = new System.Drawing.Size(210, 38);
+            this.txt_maxbyte3.Size = new System.Drawing.Size(69, 19);
             this.txt_maxbyte3.TabIndex = 26;
             this.txt_maxbyte3.Text = "Stop Byte";
             // 
@@ -900,7 +874,7 @@
             // 
             this.howbyte3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.howbyte3.Depth = 0;
-            this.howbyte3.Font = new System.Drawing.Font("Roboto", 12F);
+            this.howbyte3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.howbyte3.Location = new System.Drawing.Point(580, 24);
             this.howbyte3.MaxLength = 50;
             this.howbyte3.MouseState = MaterialSkin.MouseState.OUT;
@@ -917,12 +891,12 @@
             this.txt_howbyte3.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_howbyte3.Location = new System.Drawing.Point(750, 38);
             this.txt_howbyte3.MouseState = MaterialSkin.MouseState.HOVER;
-            this.txt_howbyte3.Name = "txt_maxbyte3";
-            this.txt_howbyte3.Size = new System.Drawing.Size(117, 19);
+            this.txt_howbyte3.Name = "txt_howbyte3";
+            this.txt_howbyte3.Size = new System.Drawing.Size(68, 19);
             this.txt_howbyte3.TabIndex = 26;
             this.txt_howbyte3.Text = "How Byte";
             // 
-            // AllBytes2
+            // AllBytes3
             // 
             this.AllBytes3.AutoSize = true;
             this.AllBytes3.Depth = 0;
@@ -937,30 +911,52 @@
             this.AllBytes3.Text = "Read all bytes";
             this.AllBytes3.UseVisualStyleBackColor = true;
             // 
-            // WordSize3
+            // ShowAsciiSymbols3
             // 
-            this.WordSize3.AutoResize = false;
-            this.WordSize3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.WordSize3.Depth = 0;
-            this.WordSize3.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
-            this.WordSize3.DropDownHeight = 174;
-            this.WordSize3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.WordSize3.DropDownWidth = 121;
-            this.WordSize3.Font = new System.Drawing.Font("Roboto Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-            this.WordSize3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.WordSize3.FormattingEnabled = true;
-            this.WordSize3.IntegralHeight = false;
-            this.WordSize3.ItemHeight = 43;
-            this.WordSize3.Items.AddRange(new object[] {
-            "word size 1 bytes",
-            "word size 2 bytes",
-            "word size 4 bytes"});
-            this.WordSize3.Location = new System.Drawing.Point(923, 80);
-            this.WordSize3.MaxDropDownItems = 4;
-            this.WordSize3.MouseState = MaterialSkin.MouseState.OUT;
-            this.WordSize3.Name = "WordSize3";
-            this.WordSize3.Size = new System.Drawing.Size(175, 49);
-            this.WordSize3.TabIndex = 31;
+            this.ShowAsciiSymbols3.AutoSize = true;
+            this.ShowAsciiSymbols3.Depth = 0;
+            this.ShowAsciiSymbols3.Location = new System.Drawing.Point(923, 302);
+            this.ShowAsciiSymbols3.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowAsciiSymbols3.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowAsciiSymbols3.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowAsciiSymbols3.Name = "ShowAsciiSymbols3";
+            this.ShowAsciiSymbols3.Ripple = true;
+            this.ShowAsciiSymbols3.Size = new System.Drawing.Size(171, 37);
+            this.ShowAsciiSymbols3.TabIndex = 35;
+            this.ShowAsciiSymbols3.Text = "show ASCII symbol";
+            this.ShowAsciiSymbols3.UseVisualStyleBackColor = true;
+            // 
+            // ShowLineAdres3
+            // 
+            this.ShowLineAdres3.AutoSize = true;
+            this.ShowLineAdres3.Depth = 0;
+            this.ShowLineAdres3.Location = new System.Drawing.Point(923, 253);
+            this.ShowLineAdres3.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLineAdres3.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLineAdres3.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLineAdres3.Name = "ShowLineAdres3";
+            this.ShowLineAdres3.Ripple = true;
+            this.ShowLineAdres3.Size = new System.Drawing.Size(178, 37);
+            this.ShowLineAdres3.TabIndex = 34;
+            this.ShowLineAdres3.Text = "show line addresses";
+            this.ShowLineAdres3.UseVisualStyleBackColor = true;
+            // 
+            // ShowLinenumbers3
+            // 
+            this.ShowLinenumbers3.AutoSize = true;
+            this.ShowLinenumbers3.Checked = true;
+            this.ShowLinenumbers3.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ShowLinenumbers3.Depth = 0;
+            this.ShowLinenumbers3.Location = new System.Drawing.Point(923, 201);
+            this.ShowLinenumbers3.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLinenumbers3.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLinenumbers3.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLinenumbers3.Name = "ShowLinenumbers3";
+            this.ShowLinenumbers3.Ripple = true;
+            this.ShowLinenumbers3.Size = new System.Drawing.Size(182, 37);
+            this.ShowLinenumbers3.TabIndex = 33;
+            this.ShowLinenumbers3.Text = "show line numbering";
+            this.ShowLinenumbers3.UseVisualStyleBackColor = true;
             // 
             // WordInLine3
             // 
@@ -986,56 +982,31 @@
             this.WordInLine3.Name = "WordInLine3";
             this.WordInLine3.Size = new System.Drawing.Size(175, 49);
             this.WordInLine3.TabIndex = 32;
-
             // 
-            // ShowLinenumbers3
+            // WordSize3
             // 
-            this.ShowLinenumbers3.AutoSize = true;
-            this.ShowLinenumbers3.Checked = true;
-            this.ShowLinenumbers3.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ShowLinenumbers3.Depth = 0;
-            this.ShowLinenumbers3.Location = new System.Drawing.Point(923, 201);
-            this.ShowLinenumbers3.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLinenumbers3.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLinenumbers3.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLinenumbers3.Name = "ShowLinenumbers3";
-            this.ShowLinenumbers3.Ripple = true;
-            this.ShowLinenumbers3.Size = new System.Drawing.Size(182, 37);
-            this.ShowLinenumbers3.TabIndex = 33;
-            this.ShowLinenumbers3.Text = "show line numbering";
-            this.ShowLinenumbers3.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowLineAdres3
-            // 
-            this.ShowLineAdres3.AutoSize = true;
-            this.ShowLineAdres3.Depth = 0;
-            this.ShowLineAdres3.Location = new System.Drawing.Point(923, 253);
-            this.ShowLineAdres3.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLineAdres3.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLineAdres3.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLineAdres3.Name = "ShowLineAdres3";
-            this.ShowLineAdres3.Ripple = true;
-            this.ShowLineAdres3.Size = new System.Drawing.Size(178, 37);
-            this.ShowLineAdres3.TabIndex = 34;
-            this.ShowLineAdres3.Text = "show line addresses";
-            this.ShowLineAdres3.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowAsciiSymbols3
-            // 
-            this.ShowAsciiSymbols3.AutoSize = true;
-            this.ShowAsciiSymbols3.Depth = 0;
-            this.ShowAsciiSymbols3.Location = new System.Drawing.Point(923, 302);
-            this.ShowAsciiSymbols3.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowAsciiSymbols3.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowAsciiSymbols3.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowAsciiSymbols3.Name = "ShowAsciiSymbols3";
-            this.ShowAsciiSymbols3.Ripple = true;
-            this.ShowAsciiSymbols3.Size = new System.Drawing.Size(171, 37);
-            this.ShowAsciiSymbols3.TabIndex = 35;
-            this.ShowAsciiSymbols3.Text = "show ASCII symbol";
-            this.ShowAsciiSymbols3.UseVisualStyleBackColor = true;
+            this.WordSize3.AutoResize = false;
+            this.WordSize3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.WordSize3.Depth = 0;
+            this.WordSize3.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.WordSize3.DropDownHeight = 174;
+            this.WordSize3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.WordSize3.DropDownWidth = 121;
+            this.WordSize3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            this.WordSize3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.WordSize3.FormattingEnabled = true;
+            this.WordSize3.IntegralHeight = false;
+            this.WordSize3.ItemHeight = 43;
+            this.WordSize3.Items.AddRange(new object[] {
+            "word size 1 bytes",
+            "word size 2 bytes",
+            "word size 4 bytes"});
+            this.WordSize3.Location = new System.Drawing.Point(923, 80);
+            this.WordSize3.MaxDropDownItems = 4;
+            this.WordSize3.MouseState = MaterialSkin.MouseState.OUT;
+            this.WordSize3.Name = "WordSize3";
+            this.WordSize3.Size = new System.Drawing.Size(175, 49);
+            this.WordSize3.TabIndex = 31;
             // 
             // FinishDataPage3
             // 
@@ -1106,13 +1077,12 @@
             this.txt_minbyte4.Size = new System.Drawing.Size(70, 19);
             this.txt_minbyte4.TabIndex = 26;
             this.txt_minbyte4.Text = "Start Byte";
-
             // 
             // maxbyte4
             // 
             this.maxbyte4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.maxbyte4.Depth = 0;
-            this.maxbyte4.Font = new System.Drawing.Font("Roboto", 12F);
+            this.maxbyte4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.maxbyte4.Location = new System.Drawing.Point(310, 24);
             this.maxbyte4.MaxLength = 50;
             this.maxbyte4.MouseState = MaterialSkin.MouseState.OUT;
@@ -1130,7 +1100,7 @@
             this.txt_maxbyte4.Location = new System.Drawing.Point(497, 38);
             this.txt_maxbyte4.MouseState = MaterialSkin.MouseState.HOVER;
             this.txt_maxbyte4.Name = "txt_maxbyte4";
-            this.txt_maxbyte4.Size = new System.Drawing.Size(210, 38);
+            this.txt_maxbyte4.Size = new System.Drawing.Size(69, 19);
             this.txt_maxbyte4.TabIndex = 26;
             this.txt_maxbyte4.Text = "Stop Byte";
             // 
@@ -1138,7 +1108,7 @@
             // 
             this.howbyte4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.howbyte4.Depth = 0;
-            this.howbyte4.Font = new System.Drawing.Font("Roboto", 12F);
+            this.howbyte4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.howbyte4.Location = new System.Drawing.Point(580, 24);
             this.howbyte4.MaxLength = 50;
             this.howbyte4.MouseState = MaterialSkin.MouseState.OUT;
@@ -1155,8 +1125,8 @@
             this.txt_howbyte4.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_howbyte4.Location = new System.Drawing.Point(750, 38);
             this.txt_howbyte4.MouseState = MaterialSkin.MouseState.HOVER;
-            this.txt_howbyte4.Name = "txt_maxbyte4";
-            this.txt_howbyte4.Size = new System.Drawing.Size(117, 19);
+            this.txt_howbyte4.Name = "txt_howbyte4";
+            this.txt_howbyte4.Size = new System.Drawing.Size(68, 19);
             this.txt_howbyte4.TabIndex = 26;
             this.txt_howbyte4.Text = "How Byte";
             // 
@@ -1175,32 +1145,54 @@
             this.AllBytes4.Text = "Read all bytes";
             this.AllBytes4.UseVisualStyleBackColor = true;
             // 
-            // WordSize4
+            // ShowAsciiSymbols4
             // 
-            this.WordSize4.AutoResize = false;
-            this.WordSize4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.WordSize4.Depth = 0;
-            this.WordSize4.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
-            this.WordSize4.DropDownHeight = 174;
-            this.WordSize4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.WordSize4.DropDownWidth = 121;
-            this.WordSize4.Font = new System.Drawing.Font("Roboto Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-            this.WordSize4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.WordSize4.FormattingEnabled = true;
-            this.WordSize4.IntegralHeight = false;
-            this.WordSize4.ItemHeight = 43;
-            this.WordSize4.Items.AddRange(new object[] {
-            "word size 1 bytes",
-            "word size 2 bytes",
-            "word size 4 bytes"});
-            this.WordSize4.Location = new System.Drawing.Point(923, 80);
-            this.WordSize4.MaxDropDownItems = 4;
-            this.WordSize4.MouseState = MaterialSkin.MouseState.OUT;
-            this.WordSize4.Name = "WordSize4";
-            this.WordSize4.Size = new System.Drawing.Size(175, 49);
-            this.WordSize4.TabIndex = 31;
+            this.ShowAsciiSymbols4.AutoSize = true;
+            this.ShowAsciiSymbols4.Depth = 0;
+            this.ShowAsciiSymbols4.Location = new System.Drawing.Point(923, 302);
+            this.ShowAsciiSymbols4.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowAsciiSymbols4.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowAsciiSymbols4.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowAsciiSymbols4.Name = "ShowAsciiSymbols4";
+            this.ShowAsciiSymbols4.Ripple = true;
+            this.ShowAsciiSymbols4.Size = new System.Drawing.Size(171, 37);
+            this.ShowAsciiSymbols4.TabIndex = 35;
+            this.ShowAsciiSymbols4.Text = "show ASCII symbol";
+            this.ShowAsciiSymbols4.UseVisualStyleBackColor = true;
             // 
-            // WordInLine3
+            // ShowLineAdres4
+            // 
+            this.ShowLineAdres4.AutoSize = true;
+            this.ShowLineAdres4.Depth = 0;
+            this.ShowLineAdres4.Location = new System.Drawing.Point(923, 253);
+            this.ShowLineAdres4.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLineAdres4.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLineAdres4.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLineAdres4.Name = "ShowLineAdres4";
+            this.ShowLineAdres4.Ripple = true;
+            this.ShowLineAdres4.Size = new System.Drawing.Size(178, 37);
+            this.ShowLineAdres4.TabIndex = 34;
+            this.ShowLineAdres4.Text = "show line addresses";
+            this.ShowLineAdres4.UseVisualStyleBackColor = true;
+            // 
+            // ShowLinenumbers4
+            // 
+            this.ShowLinenumbers4.AutoSize = true;
+            this.ShowLinenumbers4.Checked = true;
+            this.ShowLinenumbers4.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ShowLinenumbers4.Depth = 0;
+            this.ShowLinenumbers4.Location = new System.Drawing.Point(923, 201);
+            this.ShowLinenumbers4.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLinenumbers4.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLinenumbers4.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLinenumbers4.Name = "ShowLinenumbers4";
+            this.ShowLinenumbers4.Ripple = true;
+            this.ShowLinenumbers4.Size = new System.Drawing.Size(182, 37);
+            this.ShowLinenumbers4.TabIndex = 33;
+            this.ShowLinenumbers4.Text = "show line numbering";
+            this.ShowLinenumbers4.UseVisualStyleBackColor = true;
+            // 
+            // WordInLine4
             // 
             this.WordInLine4.AutoResize = false;
             this.WordInLine4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
@@ -1224,56 +1216,31 @@
             this.WordInLine4.Name = "WordInLine4";
             this.WordInLine4.Size = new System.Drawing.Size(175, 49);
             this.WordInLine4.TabIndex = 32;
-
             // 
-            // ShowLinenumbers4
+            // WordSize4
             // 
-            this.ShowLinenumbers4.AutoSize = true;
-            this.ShowLinenumbers4.Checked = true;
-            this.ShowLinenumbers4.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ShowLinenumbers4.Depth = 0;
-            this.ShowLinenumbers4.Location = new System.Drawing.Point(923, 201);
-            this.ShowLinenumbers4.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLinenumbers4.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLinenumbers4.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLinenumbers4.Name = "ShowLinenumbers4";
-            this.ShowLinenumbers4.Ripple = true;
-            this.ShowLinenumbers4.Size = new System.Drawing.Size(182, 37);
-            this.ShowLinenumbers4.TabIndex = 33;
-            this.ShowLinenumbers4.Text = "show line numbering";
-            this.ShowLinenumbers4.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowLineAdres4
-            // 
-            this.ShowLineAdres4.AutoSize = true;
-            this.ShowLineAdres4.Depth = 0;
-            this.ShowLineAdres4.Location = new System.Drawing.Point(923, 253);
-            this.ShowLineAdres4.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLineAdres4.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLineAdres4.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLineAdres4.Name = "ShowLineAdres4";
-            this.ShowLineAdres4.Ripple = true;
-            this.ShowLineAdres4.Size = new System.Drawing.Size(178, 37);
-            this.ShowLineAdres4.TabIndex = 34;
-            this.ShowLineAdres4.Text = "show line addresses";
-            this.ShowLineAdres4.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowAsciiSymbols4
-            // 
-            this.ShowAsciiSymbols4.AutoSize = true;
-            this.ShowAsciiSymbols4.Depth = 0;
-            this.ShowAsciiSymbols4.Location = new System.Drawing.Point(923, 302);
-            this.ShowAsciiSymbols4.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowAsciiSymbols4.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowAsciiSymbols4.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowAsciiSymbols4.Name = "ShowAsciiSymbols4";
-            this.ShowAsciiSymbols4.Ripple = true;
-            this.ShowAsciiSymbols4.Size = new System.Drawing.Size(171, 37);
-            this.ShowAsciiSymbols4.TabIndex = 35;
-            this.ShowAsciiSymbols4.Text = "show ASCII symbol";
-            this.ShowAsciiSymbols4.UseVisualStyleBackColor = true;
+            this.WordSize4.AutoResize = false;
+            this.WordSize4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.WordSize4.Depth = 0;
+            this.WordSize4.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.WordSize4.DropDownHeight = 174;
+            this.WordSize4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.WordSize4.DropDownWidth = 121;
+            this.WordSize4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            this.WordSize4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.WordSize4.FormattingEnabled = true;
+            this.WordSize4.IntegralHeight = false;
+            this.WordSize4.ItemHeight = 43;
+            this.WordSize4.Items.AddRange(new object[] {
+            "word size 1 bytes",
+            "word size 2 bytes",
+            "word size 4 bytes"});
+            this.WordSize4.Location = new System.Drawing.Point(923, 80);
+            this.WordSize4.MaxDropDownItems = 4;
+            this.WordSize4.MouseState = MaterialSkin.MouseState.OUT;
+            this.WordSize4.Name = "WordSize4";
+            this.WordSize4.Size = new System.Drawing.Size(175, 49);
+            this.WordSize4.TabIndex = 31;
             // 
             // FinishDataPage4
             // 
@@ -1344,13 +1311,12 @@
             this.txt_minbyte5.Size = new System.Drawing.Size(70, 19);
             this.txt_minbyte5.TabIndex = 26;
             this.txt_minbyte5.Text = "Start Byte";
-
             // 
             // maxbyte5
             // 
             this.maxbyte5.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.maxbyte5.Depth = 0;
-            this.maxbyte5.Font = new System.Drawing.Font("Roboto", 12F);
+            this.maxbyte5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.maxbyte5.Location = new System.Drawing.Point(310, 24);
             this.maxbyte5.MaxLength = 50;
             this.maxbyte5.MouseState = MaterialSkin.MouseState.OUT;
@@ -1368,7 +1334,7 @@
             this.txt_maxbyte5.Location = new System.Drawing.Point(497, 38);
             this.txt_maxbyte5.MouseState = MaterialSkin.MouseState.HOVER;
             this.txt_maxbyte5.Name = "txt_maxbyte5";
-            this.txt_maxbyte5.Size = new System.Drawing.Size(210, 38);
+            this.txt_maxbyte5.Size = new System.Drawing.Size(69, 19);
             this.txt_maxbyte5.TabIndex = 26;
             this.txt_maxbyte5.Text = "Stop Byte";
             // 
@@ -1376,7 +1342,7 @@
             // 
             this.howbyte5.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.howbyte5.Depth = 0;
-            this.howbyte5.Font = new System.Drawing.Font("Roboto", 12F);
+            this.howbyte5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.howbyte5.Location = new System.Drawing.Point(580, 24);
             this.howbyte5.MaxLength = 50;
             this.howbyte5.MouseState = MaterialSkin.MouseState.OUT;
@@ -1393,8 +1359,8 @@
             this.txt_howbyte5.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txt_howbyte5.Location = new System.Drawing.Point(750, 38);
             this.txt_howbyte5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.txt_howbyte5.Name = "txt_maxbyte5";
-            this.txt_howbyte5.Size = new System.Drawing.Size(117, 19);
+            this.txt_howbyte5.Name = "txt_howbyte5";
+            this.txt_howbyte5.Size = new System.Drawing.Size(68, 19);
             this.txt_howbyte5.TabIndex = 26;
             this.txt_howbyte5.Text = "How Byte";
             // 
@@ -1413,30 +1379,52 @@
             this.AllBytes5.Text = "Read all bytes";
             this.AllBytes5.UseVisualStyleBackColor = true;
             // 
-            // WordSize5
+            // ShowAsciiSymbols5
             // 
-            this.WordSize5.AutoResize = false;
-            this.WordSize5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.WordSize5.Depth = 0;
-            this.WordSize5.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
-            this.WordSize5.DropDownHeight = 174;
-            this.WordSize5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.WordSize5.DropDownWidth = 121;
-            this.WordSize5.Font = new System.Drawing.Font("Roboto Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-            this.WordSize5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.WordSize5.FormattingEnabled = true;
-            this.WordSize5.IntegralHeight = false;
-            this.WordSize5.ItemHeight = 43;
-            this.WordSize5.Items.AddRange(new object[] {
-            "word size 1 bytes",
-            "word size 2 bytes",
-            "word size 4 bytes"});
-            this.WordSize5.Location = new System.Drawing.Point(923, 80);
-            this.WordSize5.MaxDropDownItems = 4;
-            this.WordSize5.MouseState = MaterialSkin.MouseState.OUT;
-            this.WordSize5.Name = "WordSize5";
-            this.WordSize5.Size = new System.Drawing.Size(175, 49);
-            this.WordSize5.TabIndex = 31;
+            this.ShowAsciiSymbols5.AutoSize = true;
+            this.ShowAsciiSymbols5.Depth = 0;
+            this.ShowAsciiSymbols5.Location = new System.Drawing.Point(923, 302);
+            this.ShowAsciiSymbols5.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowAsciiSymbols5.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowAsciiSymbols5.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowAsciiSymbols5.Name = "ShowAsciiSymbols5";
+            this.ShowAsciiSymbols5.Ripple = true;
+            this.ShowAsciiSymbols5.Size = new System.Drawing.Size(171, 37);
+            this.ShowAsciiSymbols5.TabIndex = 35;
+            this.ShowAsciiSymbols5.Text = "show ASCII symbol";
+            this.ShowAsciiSymbols5.UseVisualStyleBackColor = true;
+            // 
+            // ShowLineAdres5
+            // 
+            this.ShowLineAdres5.AutoSize = true;
+            this.ShowLineAdres5.Depth = 0;
+            this.ShowLineAdres5.Location = new System.Drawing.Point(923, 253);
+            this.ShowLineAdres5.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLineAdres5.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLineAdres5.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLineAdres5.Name = "ShowLineAdres5";
+            this.ShowLineAdres5.Ripple = true;
+            this.ShowLineAdres5.Size = new System.Drawing.Size(178, 37);
+            this.ShowLineAdres5.TabIndex = 34;
+            this.ShowLineAdres5.Text = "show line addresses";
+            this.ShowLineAdres5.UseVisualStyleBackColor = true;
+            // 
+            // ShowLinenumbers5
+            // 
+            this.ShowLinenumbers5.AutoSize = true;
+            this.ShowLinenumbers5.Checked = true;
+            this.ShowLinenumbers5.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.ShowLinenumbers5.Depth = 0;
+            this.ShowLinenumbers5.Location = new System.Drawing.Point(923, 201);
+            this.ShowLinenumbers5.Margin = new System.Windows.Forms.Padding(0);
+            this.ShowLinenumbers5.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.ShowLinenumbers5.MouseState = MaterialSkin.MouseState.HOVER;
+            this.ShowLinenumbers5.Name = "ShowLinenumbers5";
+            this.ShowLinenumbers5.Ripple = true;
+            this.ShowLinenumbers5.Size = new System.Drawing.Size(182, 37);
+            this.ShowLinenumbers5.TabIndex = 33;
+            this.ShowLinenumbers5.Text = "show line numbering";
+            this.ShowLinenumbers5.UseVisualStyleBackColor = true;
             // 
             // WordInLine5
             // 
@@ -1462,56 +1450,31 @@
             this.WordInLine5.Name = "WordInLine5";
             this.WordInLine5.Size = new System.Drawing.Size(175, 49);
             this.WordInLine5.TabIndex = 32;
-
             // 
-            // ShowLinenumbers5
+            // WordSize5
             // 
-            this.ShowLinenumbers5.AutoSize = true;
-            this.ShowLinenumbers5.Checked = true;
-            this.ShowLinenumbers5.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.ShowLinenumbers5.Depth = 0;
-            this.ShowLinenumbers5.Location = new System.Drawing.Point(923, 201);
-            this.ShowLinenumbers5.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLinenumbers5.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLinenumbers5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLinenumbers5.Name = "ShowLinenumbers5";
-            this.ShowLinenumbers5.Ripple = true;
-            this.ShowLinenumbers5.Size = new System.Drawing.Size(182, 37);
-            this.ShowLinenumbers5.TabIndex = 33;
-            this.ShowLinenumbers5.Text = "show line numbering";
-            this.ShowLinenumbers5.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowLineAdres5
-            // 
-            this.ShowLineAdres5.AutoSize = true;
-            this.ShowLineAdres5.Depth = 0;
-            this.ShowLineAdres5.Location = new System.Drawing.Point(923, 253);
-            this.ShowLineAdres5.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowLineAdres5.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowLineAdres5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowLineAdres5.Name = "ShowLineAdres5";
-            this.ShowLineAdres5.Ripple = true;
-            this.ShowLineAdres5.Size = new System.Drawing.Size(178, 37);
-            this.ShowLineAdres5.TabIndex = 34;
-            this.ShowLineAdres5.Text = "show line addresses";
-            this.ShowLineAdres5.UseVisualStyleBackColor = true;
-
-            // 
-            // ShowAsciiSymbols5
-            // 
-            this.ShowAsciiSymbols5.AutoSize = true;
-            this.ShowAsciiSymbols5.Depth = 0;
-            this.ShowAsciiSymbols5.Location = new System.Drawing.Point(923, 302);
-            this.ShowAsciiSymbols5.Margin = new System.Windows.Forms.Padding(0);
-            this.ShowAsciiSymbols5.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.ShowAsciiSymbols5.MouseState = MaterialSkin.MouseState.HOVER;
-            this.ShowAsciiSymbols5.Name = "ShowAsciiSymbols5";
-            this.ShowAsciiSymbols5.Ripple = true;
-            this.ShowAsciiSymbols5.Size = new System.Drawing.Size(171, 37);
-            this.ShowAsciiSymbols5.TabIndex = 35;
-            this.ShowAsciiSymbols5.Text = "show ASCII symbol";
-            this.ShowAsciiSymbols5.UseVisualStyleBackColor = true;
+            this.WordSize5.AutoResize = false;
+            this.WordSize5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.WordSize5.Depth = 0;
+            this.WordSize5.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.WordSize5.DropDownHeight = 174;
+            this.WordSize5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.WordSize5.DropDownWidth = 121;
+            this.WordSize5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            this.WordSize5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.WordSize5.FormattingEnabled = true;
+            this.WordSize5.IntegralHeight = false;
+            this.WordSize5.ItemHeight = 43;
+            this.WordSize5.Items.AddRange(new object[] {
+            "word size 1 bytes",
+            "word size 2 bytes",
+            "word size 4 bytes"});
+            this.WordSize5.Location = new System.Drawing.Point(923, 80);
+            this.WordSize5.MaxDropDownItems = 4;
+            this.WordSize5.MouseState = MaterialSkin.MouseState.OUT;
+            this.WordSize5.Name = "WordSize5";
+            this.WordSize5.Size = new System.Drawing.Size(175, 49);
+            this.WordSize5.TabIndex = 31;
             // 
             // FinishDataPage5
             // 
@@ -1559,8 +1522,18 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Hex";
             this.materialTabControl1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
+            this.tabPage5.ResumeLayout(false);
+            this.tabPage5.PerformLayout();
+            this.tabPage6.ResumeLayout(false);
+            this.tabPage6.PerformLayout();
+            this.tabPage7.ResumeLayout(false);
+            this.tabPage7.PerformLayout();
+            this.tabPage8.ResumeLayout(false);
+            this.tabPage8.PerformLayout();
             this.ResumeLayout(false);
 
         }
